@@ -17,10 +17,12 @@ $appendDiyWords(词典, 自定义词典id);
 
 自定义词典 格式: \["a","b","c"\]
 
-![1595553557573](C:\Users\NING MEI\AppData\Roaming\Typora\typora-user-images\1595553557573.png)
+![1595553557573](https://github.com/17600774441/input_search/blob/master/readmeImg/1595553557573.png)
 
 
 
-![1595553580228](C:\Users\NING MEI\AppData\Roaming\Typora\typora-user-images\1595553580228.png)
+
+
+![1595553580228](https://github.com/17600774441/input_search/blob/master/readmeImg/1595553580228.png)
 
 添加自定义词汇会检测该单词是否存在
